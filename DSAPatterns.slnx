@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DSAPatterns/DSAPatterns.csproj" />
+  <Project Path="SlidingWindow/SlidingWindow.csproj" />
+</Solution>
